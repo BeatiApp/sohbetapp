@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311289093971",
+    "project_id": "sohbetapp-1339e",
+    "storage_bucket": "sohbetapp-1339e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311289093971:android:768a073adf80bcd8d94ba6",
+        "android_client_info": {
+          "package_name": "com.beatiapp.sohbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311289093971-f0fifmpkeob58kql7mologhf16bdeo9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beatiapp.sohbet",
+            "certificate_hash": "86edded226f6feb6a3fe4b0d4f41c41edf741483"
+          }
+        },
+        {
+          "client_id": "311289093971-uuvtd5r7haen3nf02rbp8fftfoatce0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPR_LALFNDpNb36UEZ55zQs4sqO-bplE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311289093971-uuvtd5r7haen3nf02rbp8fftfoatce0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
