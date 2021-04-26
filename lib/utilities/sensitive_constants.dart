@@ -1,4 +1,4 @@
-const developerKey = "dAYA4obkRgb7UxPMAuEudg5wPdEAjQLB";
+// const developerKey = "Private Key for Salt";
 const storagePath = "/storage/emulated/0/Sohbet";
 
 const chatIcon = "assets/svg/chat.svg";
